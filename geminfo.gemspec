@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Taiwo Kareem"]
   spec.email         = ["taiwo.kareem36@gmail.com"]
   spec.summary       = %q{A Ruby package that displays several statistics of your RubyGem}
-  spec.description   = %q{A Ruby package that displays several information about a RubyGem like author, total downloads, latest version, user ID, sha key etc.}
+  spec.description   = %q{A Ruby package that displays several information about a RubyGem like author, total downloads, latest version, user ID, sha key, total gems owned by authors, release date etc.}
   spec.homepage      = "https://github.com/tushortz/geminfo"
   spec.license       = "MIT"
 

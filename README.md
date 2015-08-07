@@ -2,7 +2,7 @@
 
 
 ## Description
-Geminfo is a Ruby package that allows you to see several information about a Gem like *Name, Author, UserID, SHA Key, Total downloads, Latest version* etc.
+Geminfo is a Ruby package that allows you to see several information about a Gem like *Name, Author, UserID, SHA Key, Total downloads, Latest version, total gems owned by author, gem's release date* etc.
 
 ## Requirements
 * Any version of Ruby
