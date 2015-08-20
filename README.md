@@ -1,4 +1,4 @@
-[![Gem Version](https://badge.fury.io/rb/geminfo.svg)](http://badge.fury.io/rb/sublimetheme)
+[![Gem Version](https://badge.fury.io/rb/geminfo.svg)](http://badge.fury.io/rb/geminfo)
 
 # Geminfo
 
