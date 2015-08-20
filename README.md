@@ -1,3 +1,5 @@
+[![Gem Version](https://badge.fury.io/rb/geminfo.svg)](http://badge.fury.io/rb/sublimetheme)
+
 # Geminfo
 
 
